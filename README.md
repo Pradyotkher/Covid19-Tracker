@@ -1,4 +1,4 @@
-# flutterappxyz
+# Covid19 Tracker
 
 A new Flutter application.
 
